@@ -1,6 +1,6 @@
 :_mod-docs-content-type: PROCEDURE
 
-[id="Creating_a_Compliance_Policy_{context}"]
+[id="Creating_a_Compliance_Policy"]
 = Creating a compliance policy
 
 [role="_abstract"]

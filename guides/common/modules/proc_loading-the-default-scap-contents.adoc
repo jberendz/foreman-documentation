@@ -1,6 +1,6 @@
 :_mod-docs-content-type: PROCEDURE
 
-[id="Loading_the_Default_SCAP_Contents_{context}"]
+[id="Loading_the_Default_SCAP_Contents"]
 = Loading the default SCAP contents
 
 [role="_abstract"]

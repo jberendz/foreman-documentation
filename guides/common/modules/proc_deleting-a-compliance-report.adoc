@@ -1,6 +1,6 @@
 :_mod-docs-content-type: PROCEDURE
 
-[id="Deleting_a_Compliance_Report_{context}"]
+[id="Deleting_a_Compliance_Report"]
 = Deleting a compliance report
 
 [role="_abstract"]

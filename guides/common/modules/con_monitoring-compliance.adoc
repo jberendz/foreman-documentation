@@ -1,6 +1,6 @@
 :_mod-docs-content-type: CONCEPT
 
-[id="Monitoring_Compliance_{context}"]
+[id="Monitoring_Compliance"]
 = Monitoring compliance
 
 [role="_abstract"]
