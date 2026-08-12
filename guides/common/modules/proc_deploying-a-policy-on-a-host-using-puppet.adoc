@@ -1,13 +1,13 @@
 :_mod-docs-content-type: PROCEDURE
 
-[id="Deploying_a_Policy_on_a_Host_Using_Puppet_{context}"]
+[id="Deploying_a_Policy_on_a_Host_Using_Puppet"]
 = Deploying a policy on a host using Puppet
 
 [role="_abstract"]
 After you deploy a compliance policy on a host using Puppet, the OpenVox agent installs the SCAP client and configures OpenSCAP scans on the host on the next Puppet run according to the selected compliance policy.
 
 The SCAP content in your compliance policy might require remote resources.
-For more information, see xref:inclusion-of-remote-scap-resources_{context}[].
+For more information, see xref:inclusion-of-remote-scap-resources[].
 
 .Prerequisites
 * You have enabled OpenSCAP on your {SmartProxy}.

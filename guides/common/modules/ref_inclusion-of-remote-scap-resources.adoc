@@ -1,6 +1,6 @@
 :_mod-docs-content-type: REFERENCE
 
-[id="inclusion-of-remote-scap-resources_{context}"]
+[id="inclusion-of-remote-scap-resources"]
 = Inclusion of remote SCAP resources
 
 [role="_abstract"]
